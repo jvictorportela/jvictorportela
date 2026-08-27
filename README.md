@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Victor Portela
 
-**Analista de Sistemas | Desenvolvedor .NET**
+**Desenvolvedor de software**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joao-victor-portela/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jvictorportela30@outlook.com)
