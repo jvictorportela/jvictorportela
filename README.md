@@ -34,14 +34,28 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![jQuery](https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
 
+### Web Scraping & Automação
+
+![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![Playwright](https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+
 ### Banco de Dados
 
 ![SQL Server](https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### APIs & Sistemas
 
-![REST](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![TOTVS](https://img.shields.io/badge/TOTVS%20RM-0066CC?style=for-the-badge)
+
+### DevOps & Infraestrutura
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
 
 ---
 
