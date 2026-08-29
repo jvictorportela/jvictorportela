@@ -2,7 +2,7 @@
 
 **Desenvolvedor de software**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joao-victor-portela/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-portela-146a71248/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jvictorportela30@outlook.com)
 
 ---
